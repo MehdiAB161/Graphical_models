@@ -188,7 +188,7 @@ We can interpret the $W$ matrix as the projection of the faces of the $V$ matrix
 
 The following figures show the $\Gamma$ distibution for different values of $\alpha$ and $\beta = 1$.
 
-Therefore, we interpret the $\beta_W$ parameter as a sparsity parameter. By putting a strong prior in some region, we can tune the sparcity of the image. For the $\alpha_W$ parameter, we interpret it as the strenght of the sparsity (?)
+Therefore, we interpret the $\beta_W$ parameter as a sparsity parameter. We can tune $\beta_W$ for some specific expected value. We interpret the $\alpha_W$ parameter as a variance parameter, therefore we control the range of values with a high probability.
 
 \begin{figure}[H]
 	\begin{subfigure}{.4\textwidth}
@@ -203,11 +203,11 @@ Therefore, we interpret the $\beta_W$ parameter as a sparsity parameter. By putt
 	\end{subfigure}%
 	
 	
-%	\begin{subfigure}{.4\textwidth}
-%		\centering
-%		\includegraphics[width=.8\linewidth]{Gamma/Gamma_alp1_bet5.png}
-%		\caption{$\alpha = 1 $, $\beta = 5 $}
-%	\end{subfigure}%
+	\begin{subfigure}{.4\textwidth}
+		\centering
+		\includegraphics[width=.8\linewidth]{Gamma/Gamma_alp1_bet5.png}
+		\caption{$\alpha = 1 $, $\beta = 5 $}
+	\end{subfigure}%
 	\begin{subfigure}{.4\textwidth}
 		\centering
 		\includegraphics[width=.8\linewidth]{Gamma/Gamma_alp1_bet10.png}
@@ -242,7 +242,7 @@ Therefore, we interpret the $\beta_W$ parameter as a sparsity parameter. By putt
 
 The following figures shows the most relevant values of $\alpha$, for $\beta_w = 1$ and $\beta_h = 1$
 
-In the first figure, we see that increasing $\alpha_W$ decreases the sparcity of the $W$ representation.
+In the first figure, we see that increasing $\alpha_W$ decreases the sparcity of the $W$ representation, because the range of the possible values with a higher probability increases.
 
 In the second figure, we see that increasing $\alpha_H$ increases the sparsity of the solution. (The weights get bigger the bigger $\alpha_H$ I expected the opposite)
 
@@ -251,23 +251,23 @@ In the second figure, we see that increasing $\alpha_H$ increases the sparsity o
 	\begin{subfigure}{.4\textwidth}
 		\centering
 		\includegraphics[width=.8\linewidth]{{betas=1/W_alph_0.1_alpw_0.1_beth_1_betw_1}.png}
-		\caption{$\alpha_W = 0.1 $, $\alpha_H = 0.1 $}
+		\caption{$\alpha_W = 0.1 $}
 	\end{subfigure}%
 	\begin{subfigure}{.4\textwidth}
 		\centering
 		\includegraphics[width=.8\linewidth]{{betas=1/W_alph_0.1_alpw_0.2_beth_1_betw_1}.png}
-		\caption{$\alpha_W = 0.2 $, $\alpha_H = 0.1$}
+		\caption{$\alpha_W = 0.2 $}
 	\end{subfigure}%
 	
 		\begin{subfigure}{.4\textwidth}
 		\centering
 		\includegraphics[width=.8\linewidth]{{betas=1/W_alph_0.1_alpw_1_beth_1_betw_1}.png}
-		\caption{$\alpha_W = 1 $, $\alpha_H = 0.1 $}
+		\caption{$\alpha_W = 1 $}
 	\end{subfigure}%
 	\begin{subfigure}{.4\textwidth}
 		\centering
 		\includegraphics[width=.8\linewidth]{{betas=1/W_alph_0.1_alpw_10_beth_1_betw_1}.png}
-		\caption{$\alpha_W = 10 $, $\alpha_H = 0.1$}
+		\caption{$\alpha_W = 10 $}
 	\end{subfigure}%
 	\caption{$W$ matrix for  $\beta_w = 1$ and $\beta_h = 1$, $\alpha_H = 0.1$}
 \end{figure}   
@@ -298,30 +298,35 @@ In the second figure, we see that increasing $\alpha_H$ increases the sparsity o
 	\caption{$W$ matrix for  $\alpha_w = 1$ and $\alpha_h = 1$ and $\beta_W = 0.1 $}
 \end{figure}   
 
+\newpage
 \paragraph{Question 3}
 The following figure shows the most relevant values of $\beta$, for $\alpha_w = 1$ and $\alpha_h = 1$
+
+In the first figure, as expected, by increasing $\beta_W$, the expectation of the prior decreases therefore the sparsity increases.
+
+In the second figure, by increasing $\beta_H$ the expectation of the weight decreases therefore the output value of the pixel decreases and the sparsity increases.
 
 \begin{figure}[H]
 	\begin{subfigure}{.4\textwidth}
 		\centering
 		\includegraphics[width=.8\linewidth]{{alphas=1/W_alph_1_alpw_1_beth_0.1_betw_0.1}.png}
-		\caption{$\beta_W = 0.1 $, $\beta_H = 0.1 $}
+		\caption{$\beta_W = 0.1 $}
 	\end{subfigure}%
 	\begin{subfigure}{.4\textwidth}
 		\centering
 		\includegraphics[width=.8\linewidth]{{alphas=1/W_alph_1_alpw_1_beth_0.1_betw_1}.png}
-		\caption{$\beta_W = 1 $, $\beta_H = 0.1$}
+		\caption{$\beta_W = 1 $}
 	\end{subfigure}%
 	
 	\begin{subfigure}{.4\textwidth}
 		\centering
 		\includegraphics[width=.8\linewidth]{{alphas=1/W_alph_1_alpw_1_beth_0.1_betw_5}.png}
-		\caption{$\beta_W = 5 $, $\beta_H = 0.1 $}
+		\caption{$\beta_W = 5 $}
 	\end{subfigure}%
 	\begin{subfigure}{.4\textwidth}
 		\centering
 		\includegraphics[width=.8\linewidth]{{alphas=1/W_alph_1_alpw_1_beth_0.1_betw_10}.png}
-		\caption{$\beta_W = 10 $, $\beta_H = 0.1$}
+		\caption{$\beta_W = 10 $}
 	\end{subfigure}%
 
 	\caption{$W$ matrix for  $\alpha_w = 1$ and $\alpha_h = 1$ and $\beta_H = 0.1 $}

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2016.10.15)  7 NOV 2017 13:23
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2016.10.15)  7 NOV 2017 18:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -963,14 +963,21 @@ File: Gamma/Gamma_alp1_bet1.png Graphic file (type png)
 Package pdftex.def Info: Gamma/Gamma_alp1_bet1.png used on input line 201.
 (pdftex.def)             Requested size: 145.67644pt x 51.34341pt.
 
-<Gamma/Gamma_alp1_bet10.png, id=28, 472.76625pt x 186.6975pt>
+<Gamma/Gamma_alp1_bet5.png, id=28, 491.8375pt x 196.735pt>
+File: Gamma/Gamma_alp1_bet5.png Graphic file (type png)
+
+<use Gamma/Gamma_alp1_bet5.png>
+Package pdftex.def Info: Gamma/Gamma_alp1_bet5.png used on input line 208.
+(pdftex.def)             Requested size: 145.67644pt x 58.27046pt.
+
+<Gamma/Gamma_alp1_bet10.png, id=29, 472.76625pt x 186.6975pt>
 File: Gamma/Gamma_alp1_bet10.png Graphic file (type png)
 
 <use Gamma/Gamma_alp1_bet10.png>
 Package pdftex.def Info: Gamma/Gamma_alp1_bet10.png used on input line 213.
 (pdftex.def)             Requested size: 145.67644pt x 57.52806pt.
 
-<Gamma/Gamma_alp01_bet1.png, id=29, 470.75874pt x 178.6675pt>
+<Gamma/Gamma_alp01_bet1.png, id=30, 470.75874pt x 178.6675pt>
 File: Gamma/Gamma_alp01_bet1.png Graphic file (type png)
 
 <use Gamma/Gamma_alp01_bet1.png>
@@ -981,21 +988,21 @@ File: Gamma/Gamma_alp1_bet1.png Graphic file (type png)
 Package pdftex.def Info: Gamma/Gamma_alp1_bet1.png used on input line 225.
 (pdftex.def)             Requested size: 145.67644pt x 51.34341pt.
 
-<Gamma/Gamma_alp5_bet1.png, id=30, 478.78876pt x 172.645pt>
+<Gamma/Gamma_alp5_bet1.png, id=31, 478.78876pt x 172.645pt>
 File: Gamma/Gamma_alp5_bet1.png Graphic file (type png)
 
 <use Gamma/Gamma_alp5_bet1.png>
 Package pdftex.def Info: Gamma/Gamma_alp5_bet1.png used on input line 231.
 (pdftex.def)             Requested size: 145.67644pt x 52.52887pt.
 
-<Gamma/Gamma_alp10_bet1.png, id=31, 487.8225pt x 182.6825pt>
+<Gamma/Gamma_alp10_bet1.png, id=32, 487.8225pt x 182.6825pt>
 File: Gamma/Gamma_alp10_bet1.png Graphic file (type png)
 
 <use Gamma/Gamma_alp10_bet1.png>
 Package pdftex.def Info: Gamma/Gamma_alp10_bet1.png used on input line 236.
 (pdftex.def)             Requested size: 145.67644pt x 54.55429pt.
 
-<betas=1/W_alph_0.1_alpw_0.1_beth_1_betw_1.png, id=32, 461.725pt x 562.1pt>
+<betas=1/W_alph_0.1_alpw_0.1_beth_1_betw_1.png, id=33, 461.725pt x 562.1pt>
 File: betas=1/W_alph_0.1_alpw_0.1_beth_1_betw_1.png Graphic file (type png)
 
 <use betas=1/W_alph_0.1_alpw_0.1_beth_1_betw_1.png>
@@ -1003,7 +1010,7 @@ Package pdftex.def Info: betas=1/W_alph_0.1_alpw_0.1_beth_1_betw_1.png used on
 input line 253.
 (pdftex.def)             Requested size: 145.67644pt x 177.34547pt.
 
-<betas=1/W_alph_0.1_alpw_0.2_beth_1_betw_1.png, id=33, 461.725pt x 562.1pt>
+<betas=1/W_alph_0.1_alpw_0.2_beth_1_betw_1.png, id=34, 461.725pt x 562.1pt>
 File: betas=1/W_alph_0.1_alpw_0.2_beth_1_betw_1.png Graphic file (type png)
 
 <use betas=1/W_alph_0.1_alpw_0.2_beth_1_betw_1.png>
@@ -1011,7 +1018,7 @@ Package pdftex.def Info: betas=1/W_alph_0.1_alpw_0.2_beth_1_betw_1.png used on
 input line 258.
 (pdftex.def)             Requested size: 145.67644pt x 177.34547pt.
 
-<betas=1/W_alph_0.1_alpw_1_beth_1_betw_1.png, id=34, 461.725pt x 562.1pt>
+<betas=1/W_alph_0.1_alpw_1_beth_1_betw_1.png, id=35, 461.725pt x 562.1pt>
 File: betas=1/W_alph_0.1_alpw_1_beth_1_betw_1.png Graphic file (type png)
 
 <use betas=1/W_alph_0.1_alpw_1_beth_1_betw_1.png>
@@ -1019,7 +1026,7 @@ Package pdftex.def Info: betas=1/W_alph_0.1_alpw_1_beth_1_betw_1.png used on in
 put line 264.
 (pdftex.def)             Requested size: 145.67644pt x 177.34547pt.
 
-<betas=1/W_alph_0.1_alpw_10_beth_1_betw_1.png, id=35, 461.725pt x 562.1pt>
+<betas=1/W_alph_0.1_alpw_10_beth_1_betw_1.png, id=36, 461.725pt x 562.1pt>
 File: betas=1/W_alph_0.1_alpw_10_beth_1_betw_1.png Graphic file (type png)
 
 <use betas=1/W_alph_0.1_alpw_10_beth_1_betw_1.png>
@@ -1027,9 +1034,9 @@ Package pdftex.def Info: betas=1/W_alph_0.1_alpw_10_beth_1_betw_1.png used on i
 nput line 269.
 (pdftex.def)             Requested size: 145.67644pt x 177.34547pt.
  [4 <./Gamma/Gamma_alp1_bet01.png> <./Gamma/Gamma_alp1_bet1.png> <./Gamma/Gamma
-_alp1_bet10.png> <./Gamma/Gamma_alp01_bet1.png> <./Gamma/Gamma_alp5_bet1.png> <
-./Gamma/Gamma_alp10_bet1.png>] <betas=1/W_alph_0.5_alpw_0.1_beth_1_betw_1.png, 
-id=42, 461.725pt x 562.1pt>
+_alp1_bet5.png> <./Gamma/Gamma_alp1_bet10.png> <./Gamma/Gamma_alp01_bet1.png> <
+./Gamma/Gamma_alp5_bet1.png> <./Gamma/Gamma_alp10_bet1.png>]
+<betas=1/W_alph_0.5_alpw_0.1_beth_1_betw_1.png, id=43, 461.725pt x 562.1pt>
 File: betas=1/W_alph_0.5_alpw_0.1_beth_1_betw_1.png Graphic file (type png)
 
 <use betas=1/W_alph_0.5_alpw_0.1_beth_1_betw_1.png>
@@ -1037,7 +1044,7 @@ Package pdftex.def Info: betas=1/W_alph_0.5_alpw_0.1_beth_1_betw_1.png used on
 input line 278.
 (pdftex.def)             Requested size: 145.67644pt x 177.34547pt.
 
-<betas=1/W_alph_1_alpw_0.1_beth_1_betw_1.png, id=43, 461.725pt x 562.1pt>
+<betas=1/W_alph_1_alpw_0.1_beth_1_betw_1.png, id=44, 461.725pt x 562.1pt>
 File: betas=1/W_alph_1_alpw_0.1_beth_1_betw_1.png Graphic file (type png)
 
 <use betas=1/W_alph_1_alpw_0.1_beth_1_betw_1.png>
@@ -1045,7 +1052,7 @@ Package pdftex.def Info: betas=1/W_alph_1_alpw_0.1_beth_1_betw_1.png used on in
 put line 283.
 (pdftex.def)             Requested size: 145.67644pt x 177.34547pt.
 
-<betas=1/W_alph_5_alpw_0.1_beth_1_betw_1.png, id=44, 461.725pt x 562.1pt>
+<betas=1/W_alph_5_alpw_0.1_beth_1_betw_1.png, id=45, 461.725pt x 562.1pt>
 File: betas=1/W_alph_5_alpw_0.1_beth_1_betw_1.png Graphic file (type png)
 
 <use betas=1/W_alph_5_alpw_0.1_beth_1_betw_1.png>
@@ -1053,7 +1060,7 @@ Package pdftex.def Info: betas=1/W_alph_5_alpw_0.1_beth_1_betw_1.png used on in
 put line 289.
 (pdftex.def)             Requested size: 145.67644pt x 177.34547pt.
 
-<betas=1/W_alph_10_alpw_0.1_beth_1_betw_1.png, id=45, 461.725pt x 562.1pt>
+<betas=1/W_alph_10_alpw_0.1_beth_1_betw_1.png, id=46, 461.725pt x 562.1pt>
 File: betas=1/W_alph_10_alpw_0.1_beth_1_betw_1.png Graphic file (type png)
 
 <use betas=1/W_alph_10_alpw_0.1_beth_1_betw_1.png>
@@ -1062,69 +1069,70 @@ nput line 294.
 (pdftex.def)             Requested size: 145.67644pt x 177.34547pt.
  [5 <./betas=1/W_alph_0.1_alpw_0.1_beth_1_betw_1.png> <./betas=1/W_alph_0.1_alp
 w_0.2_beth_1_betw_1.png> <./betas=1/W_alph_0.1_alpw_1_beth_1_betw_1.png> <./bet
-as=1/W_alph_0.1_alpw_10_beth_1_betw_1.png>]
-<alphas=1/W_alph_1_alpw_1_beth_0.1_betw_0.1.png, id=53, 461.725pt x 562.1pt>
+as=1/W_alph_0.1_alpw_10_beth_1_betw_1.png>] [6 <./betas=1/W_alph_0.5_alpw_0.1_b
+eth_1_betw_1.png> <./betas=1/W_alph_1_alpw_0.1_beth_1_betw_1.png> <./betas=1/W_
+alph_5_alpw_0.1_beth_1_betw_1.png> <./betas=1/W_alph_10_alpw_0.1_beth_1_betw_1.
+png>]
+<alphas=1/W_alph_1_alpw_1_beth_0.1_betw_0.1.png, id=61, 461.725pt x 562.1pt>
 File: alphas=1/W_alph_1_alpw_1_beth_0.1_betw_0.1.png Graphic file (type png)
 
 <use alphas=1/W_alph_1_alpw_1_beth_0.1_betw_0.1.png>
 Package pdftex.def Info: alphas=1/W_alph_1_alpw_1_beth_0.1_betw_0.1.png used on
- input line 307.
+ input line 312.
 (pdftex.def)             Requested size: 145.67644pt x 177.34547pt.
 
-<alphas=1/W_alph_1_alpw_1_beth_0.1_betw_1.png, id=54, 461.725pt x 562.1pt>
+<alphas=1/W_alph_1_alpw_1_beth_0.1_betw_1.png, id=62, 461.725pt x 562.1pt>
 File: alphas=1/W_alph_1_alpw_1_beth_0.1_betw_1.png Graphic file (type png)
 
 <use alphas=1/W_alph_1_alpw_1_beth_0.1_betw_1.png>
 Package pdftex.def Info: alphas=1/W_alph_1_alpw_1_beth_0.1_betw_1.png used on i
-nput line 312.
+nput line 317.
 (pdftex.def)             Requested size: 145.67644pt x 177.34547pt.
 
-<alphas=1/W_alph_1_alpw_1_beth_0.1_betw_5.png, id=55, 461.725pt x 562.1pt>
+<alphas=1/W_alph_1_alpw_1_beth_0.1_betw_5.png, id=63, 461.725pt x 562.1pt>
 File: alphas=1/W_alph_1_alpw_1_beth_0.1_betw_5.png Graphic file (type png)
 
 <use alphas=1/W_alph_1_alpw_1_beth_0.1_betw_5.png>
 Package pdftex.def Info: alphas=1/W_alph_1_alpw_1_beth_0.1_betw_5.png used on i
-nput line 318.
+nput line 323.
 (pdftex.def)             Requested size: 145.67644pt x 177.34547pt.
 
-<alphas=1/W_alph_1_alpw_1_beth_0.1_betw_10.png, id=56, 461.725pt x 562.1pt>
+<alphas=1/W_alph_1_alpw_1_beth_0.1_betw_10.png, id=64, 461.725pt x 562.1pt>
 File: alphas=1/W_alph_1_alpw_1_beth_0.1_betw_10.png Graphic file (type png)
 
 <use alphas=1/W_alph_1_alpw_1_beth_0.1_betw_10.png>
 Package pdftex.def Info: alphas=1/W_alph_1_alpw_1_beth_0.1_betw_10.png used on 
-input line 323.
+input line 328.
 (pdftex.def)             Requested size: 145.67644pt x 177.34547pt.
- [6 <./betas=1/W_alph_0.5_alpw_0.1_beth_1_betw_1.png> <./betas=1/W_alph_1_alpw_
-0.1_beth_1_betw_1.png> <./betas=1/W_alph_5_alpw_0.1_beth_1_betw_1.png> <./betas
-=1/W_alph_10_alpw_0.1_beth_1_betw_1.png>]
 File: alphas=1/W_alph_1_alpw_1_beth_0.1_betw_0.1.png Graphic file (type png)
- <use alphas=1/W_alph_1_alpw_1_beth_0.1_betw_0.1.png>
+
+<use alphas=1/W_alph_1_alpw_1_beth_0.1_betw_0.1.png>
 Package pdftex.def Info: alphas=1/W_alph_1_alpw_1_beth_0.1_betw_0.1.png used on
- input line 333.
+ input line 338.
 (pdftex.def)             Requested size: 145.67644pt x 177.34547pt.
 
-<alphas=1/W_alph_1_alpw_1_beth_1_betw_0.1.png, id=64, 461.725pt x 562.1pt>
+<alphas=1/W_alph_1_alpw_1_beth_1_betw_0.1.png, id=65, 461.725pt x 562.1pt>
 File: alphas=1/W_alph_1_alpw_1_beth_1_betw_0.1.png Graphic file (type png)
 
 <use alphas=1/W_alph_1_alpw_1_beth_1_betw_0.1.png>
 Package pdftex.def Info: alphas=1/W_alph_1_alpw_1_beth_1_betw_0.1.png used on i
-nput line 338.
+nput line 343.
 (pdftex.def)             Requested size: 145.67644pt x 177.34547pt.
 
-<alphas=1/W_alph_1_alpw_1_beth_5_betw_0.1.png, id=65, 461.725pt x 562.1pt>
+<alphas=1/W_alph_1_alpw_1_beth_5_betw_0.1.png, id=66, 461.725pt x 562.1pt>
 File: alphas=1/W_alph_1_alpw_1_beth_5_betw_0.1.png Graphic file (type png)
 
 <use alphas=1/W_alph_1_alpw_1_beth_5_betw_0.1.png>
 Package pdftex.def Info: alphas=1/W_alph_1_alpw_1_beth_5_betw_0.1.png used on i
-nput line 344.
+nput line 349.
 (pdftex.def)             Requested size: 145.67644pt x 177.34547pt.
 
-<alphas=1/W_alph_1_alpw_1_beth_10_betw_0.1.png, id=66, 461.725pt x 562.1pt>
+<alphas=1/W_alph_1_alpw_1_beth_10_betw_0.1.png, id=67, 461.725pt x 562.1pt>
 File: alphas=1/W_alph_1_alpw_1_beth_10_betw_0.1.png Graphic file (type png)
 
 <use alphas=1/W_alph_1_alpw_1_beth_10_betw_0.1.png>
 Package pdftex.def Info: alphas=1/W_alph_1_alpw_1_beth_10_betw_0.1.png used on 
-input line 349.
+input line 354.
 (pdftex.def)             Requested size: 145.67644pt x 177.34547pt.
  [7 <./alphas=1/W_alph_1_alpw_1_beth_0.1_betw_0.1.png> <./alphas=1/W_alph_1_alp
 w_1_beth_0.1_betw_1.png> <./alphas=1/W_alph_1_alpw_1_beth_0.1_betw_5.png> <./al
@@ -1137,11 +1145,11 @@ See the caption package documentation for explanation.
 _beth_5_betw_0.1.png> <./alphas=1/W_alph_1_alpw_1_beth_10_betw_0.1.png>]
 (./main.aux) ) 
 Here is how much of TeX's memory you used:
- 9482 strings out of 494902
- 143990 string characters out of 6179890
+ 9491 strings out of 494902
+ 144172 string characters out of 6179890
  258283 words of memory out of 5000000
- 12536 multiletter control sequences out of 15000+600000
- 53541 words of font info for 62 fonts, out of 8000000 for 9000
+ 12540 multiletter control sequences out of 15000+600000
+ 53723 words of font info for 64 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
  42i,12n,41p,317b,533s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share/texmf/
@@ -1158,10 +1166,10 @@ nts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr12.pfb
 /public/lm/lmr8.pfb></usr/share/texmf/fonts/type1/public/lm/lmri12.pfb></usr/sh
 are/texmf/fonts/type1/public/lm/lmsy10.pfb></usr/share/texmf/fonts/type1/public
 /lm/lmsy8.pfb>
-Output written on main.pdf (8 pages, 2277887 bytes).
+Output written on main.pdf (8 pages, 2287134 bytes).
 PDF statistics:
- 136 PDF objects out of 1000 (max. 8388607)
+ 137 PDF objects out of 1000 (max. 8388607)
  74 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 13418 words of extra memory for PDF output out of 14400 (max. 10000000)
+ 13423 words of extra memory for PDF output out of 14400 (max. 10000000)
 
