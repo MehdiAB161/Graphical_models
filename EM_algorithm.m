@@ -7,7 +7,7 @@ pkg load statistics
 function visualize(matrix, numVisualize, height, width, filename)
   matrix_visual = zeros(height*sqrt(numVisualize),width*sqrt(numVisualize));
 
-  % figure;
+  figure;
   ix = 1;
   ix1 = 1;
   for i = 1:sqrt(numVisualize)
@@ -22,9 +22,9 @@ function visualize(matrix, numVisualize, height, width, filename)
       ix1 = ix1 + height;
   end
 
-  % imagesc(matrix_visual); axis ij
-  % caxis([0 255]);
-  % colormap(gray);
+  imagesc(matrix_visual); axis ij
+  caxis([0 255]);
+  colormap(gray);
   imwrite(matrix_visual,colormap(gray),filename);
 end
 
